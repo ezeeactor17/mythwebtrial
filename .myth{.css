@@ -1,0 +1,12 @@
+.myth{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.heading1{
+    font-size: 5vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    text-align: right;
+    }

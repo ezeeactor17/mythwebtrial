@@ -1,0 +1,35 @@
+.myth{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+
+.heading1{
+    font-size: 5vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    }
+
+.heading2{
+        font-size:30vw;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: normal;
+        text-align: center;
+        color: rgb(255, 255, 255);
+     }
+
+
+.myth1{
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+}
+
+
+.myth2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: right;
+}
